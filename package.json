@@ -1,0 +1,21 @@
+{
+  "name": "react_tutorial",
+  "version": "1.0.0",
+  "description": "Learning React from Namste",
+  "keywords": [
+    "React",
+    "Shaik",
+    "Namaste",
+    "React"
+  ],
+  "license": "ISC",
+  "author": "Shaik Siddiq",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
