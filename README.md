@@ -1,4 +1,4 @@
-# Hey React
-- siddiq 
-- Farooq
-BAsha
+# Hey React!
+
+# Uses of Parcel
+
